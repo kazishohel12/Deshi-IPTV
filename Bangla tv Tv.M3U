@@ -5,11 +5,11 @@
 # Playlist Name: Bangla Mixed TV
 # Last Updated: 12:30 AM 10/02/2026
 
-#EXTINF:-1 tvg-logo="https://www.tbn24.com/_next/image?url=%2Flogo.png&w=256&q=75" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",TBN24 USA
+#EXTINF:-1 tvg-logo="https://www.tbn24.com/_next/image?url=%2Flogo.png&w=256&q=75" group-title="BANGLADESHI",TBN24 USA
 https://www.tbn24.com/live-tv-stream/20201_.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5hkVvSp/rajdhani.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Rajdhani
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5hkVvSp/rajdhani.png" group-title="BANGLADESHI",Rajdhani
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/0215t9fT/btv.png",BTV
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/0215t9fT/btv.png",BTV
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/28VMF8hx/btv-news.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",BTV News
 https://btv.hridoytv-channel.workers.dev/news.m3u8
