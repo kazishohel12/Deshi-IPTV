@@ -525,3 +525,13 @@ https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Movie",B4U Movies (Backup 2)
 https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies 1" tvg-logo="https://i.imgur.com/xO3zP1s.png" group-title="Movies",B4U Movies 1
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies 2" tvg-logo="https://i.imgur.com/xO3zP1s.png" group-title="Movies",B4U Movies 2
+https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
+
