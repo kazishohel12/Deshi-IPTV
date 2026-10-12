@@ -501,7 +501,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xr97sgrflz/out/v1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 
-#EXTM3U
+10/13/26 .......
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="ATN News" group-title="Bangla TV",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="BanglaVision" group-title="Bangla TV",BanglaVision
@@ -666,6 +667,116 @@ https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8?hdnts=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Colors Bangla HD [Backup 1]" group-title="Bangla Music",Colors Bangla HD [Backup 1]
 http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8
+
+ALL MUSIC
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="7S Music" group-title="All Music",7S Music
+https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="7S Music [Backup 1]" group-title="All Music",7S Music [Backup 1]
+http://103.175.73.12:8080/live/771/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="7X Music" group-title="All Music",7X Music
+https://cdn2.in/7xPunjabihls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="8XM" group-title="All Music",8XM
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="9X Jalwa" group-title="All Music",9X Jalwa
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="9X Jalwa [Backup 1]" group-title="All Music",9X Jalwa [Backup 1]
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="9X Jalwa [Backup 2]" group-title="All Music",9X Jalwa [Backup 2]
+https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="9X Jhakaas" group-title="All Music",9X Jhakaas
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="9X Tashan" group-title="All Music",9X Tashan
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="9XM" group-title="All Music",9XM
+https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="9XM [Backup 1]" group-title="All Music",9XM [Backup 1]
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="9XM [Backup 2]" group-title="All Music",9XM [Backup 2]
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="9XM [Backup 3]" group-title="All Music",9XM [Backup 3]
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="9XM [Backup 4]" group-title="All Music",9XM [Backup 4]
+http://107.167.16.138/dhamaal/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="B4U Music" group-title="All Music",B4U Music
+https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="B4U Music [Backup 1]" group-title="All Music",B4U Music [Backup 1]
+https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="B4U Music [Backup 2]" group-title="All Music",B4U Music [Backup 2]
+http://103.175.73.12:8080/live/157/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Epic Music" group-title="All Music",Epic Music
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Epic Music [Backup 1]" group-title="All Music",Epic Music [Backup 1]
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="ETV Music" group-title="All Music",ETV Music
+https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Hindi Hits" group-title="All Music",Hindi Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Jalwa" group-title="All Music",Jalwa
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Joo Music" group-title="All Music",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Music India" group-title="All Music",Music India
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Music India [Backup 1]" group-title="All Music",Music India [Backup 1]
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Only Music" group-title="All Music",Only Music
+https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="PTC Music" group-title="All Music",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Public Music" group-title="All Music",Public Music
+https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Raj Musix Tamil" group-title="All Music",Raj Musix Tamil
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Saga Music" group-title="All Music",Saga Music
+https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Saga Music Haryanvi" group-title="All Music",Saga Music Haryanvi
+https://amg01412-xiaomiasia-sagamusicharyanvi-xiaomi-0v34j.amagi.tv/playlist/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Steelbird Music" group-title="All Music",Steelbird Music
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Sun Music" group-title="All Music",Sun Music
+https://hls.sunmusic.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Tarang Music" group-title="All Music",Tarang Music
+https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="YRF Music" group-title="All Music",YRF Music
+https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="YRF Music [Backup 1]" group-title="All Music",YRF Music [Backup 1]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Big Magic" group-title="All Music",Big Magic
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/355253.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Baraza Music TV" group-title="All Music",Baraza Music TV
+https://eco.streams.ovh:8081/barazatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Baraza Music TV [Backup 1]" group-title="All Music",Baraza Music TV [Backup 1]
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="BIZ Music" group-title="All Music",BIZ Music
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Fon Music Tnt Music" group-title="All Music",Fon Music Tnt Music
+https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="M20 Music" group-title="All Music",M20 Music
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Oxygen Music" group-title="All Music",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="TRT Music" group-title="All Music",TRT Music
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="V2BEAT" group-title="All Music",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Vevo '70s & '80s" group-title="All Music",Vevo '70s & '80s
+https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Vevo '90s & '00s" group-title="All Music",Vevo '90s & '00s
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Vevo Hip Hop & R&B" group-title="All Music",Vevo Hip Hop & R&B
+https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="Vevo Pop" group-title="All Music",Vevo Pop
+https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="XITE" group-title="All Music",XITE
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="XITE Hits" group-title="All Music",XITE Hits
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="XITE Hits [Backup 1]" group-title="All Music",XITE Hits [Backup 1]
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png" tvg-name="History Hit" group-title="All Music",History Hit
+https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/ts-eu-w1-n2/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8
+
 
 
 
