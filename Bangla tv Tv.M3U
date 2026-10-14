@@ -5,7 +5,7 @@
 # Playlist Name: Bangla Mixed TV
 # Last Updated: 3:00 PM 10/12/2026
 
-EXTINF:-1 tvg-name="DTV USA" tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png"group-title="Bangla TV(1)",DTV USA
+#EXTINF:-1 tvg-name="DTV USA" tvg-logo="https://i.postimg.cc/9QZnYdsZ/KH-IPTV-Logo.png"group-title="Bangla TV(1)",DTV USA
 https://cdn.dtvusa.com/dtv/index.m3u8
 #EXTINF:-1 tvg-name="TBN24 USA"tvg-logo="https://www.tbn24.com/_next/image?url=%2Flogo.png&w=256&q=75"group-title="Bangla TV(1)",TBN24 USA
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
