@@ -3288,7 +3288,8 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-666e192cd91d
 #EXTINF:-1 tvg-name="Ideas En 5 Minutos"tvg-id="697140a85d851f5e69414688-64a355697d24564fba37bab8"tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png"tvg-chno=""group-title="Australia",Ideas En 5 Minutos
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-64a355697d24564fba37bab8/?X-Plex-Token=EV2L1X5eMULstydzVeCw
 #EXTINF:-1 tvg-name="Ideas En 5 Minutos"tvg-id="608049aefa2b8ae93c2c3a63-64a355697d24564fba37bab8"tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png"tvg-chno=""group-title="Mexico",Ideas En 5 Minutos
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64a355697d24564fba37bab8/?X-Plex-Token=EV2L1X5eMULstydzVeCw
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64a355697d24564fba37bab8/?X-Plex-Token=EV2L1X5eMULsBangla"tvgYiutube 
 
-Series 
-
+Youtube Movie
+#EXTINF:-1 group-title="movie" tvg-name="YouTube Movie",Anti venom 2026
+https://youtu.be/A07ZfodVbb8
